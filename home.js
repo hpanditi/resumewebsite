@@ -2,7 +2,7 @@ alert("Welcome to my website!");
 
 console.log("JavaScript Website");
 
-console.log("Hello World!");
+console.log("Hello World! Welcome to my website!");
 
 var person = {
     firstName: "Hemanth",
